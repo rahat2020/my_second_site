@@ -1,0 +1,35 @@
+body{
+    background-image: url(img/UTTAR\ PADUA\ M.L.\ HIGH\ SCHOOL.jpg);
+    background-size: cover;
+}
+.marksheet{
+
+    border-collapse: collapse;
+    color: red;
+    background-color: #ddd;
+    margin: auto;
+    margin-top: 8px;
+
+}
+.marksheet tbody tr td{
+    text-align: center;
+        
+}
+.marksheet thead tr th{
+    font-size: 15px;
+    color: green;
+    text-transform: capitalize;
+    padding: 11px;
+}
+
+h4{
+    margin: auto;
+    margin-top: 35px;
+    text-transform: capitalize;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    width: 266px;
+    background-color: yellow;
+    padding: 4px;
+    text-align: center;
+}
